@@ -1,0 +1,12 @@
+*~
+*.pyc
+*.pyo
+*.swp
+*.kdev4
+*.komodoproject
+.DS_Store
+Thumbs.db
+
+.idea
+.coverage
+.env
